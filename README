@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4607
+
+Execute :ScrollDown or :ScrollUp to start auto movement of the cursor.
+Press <Space> or <Escape> to stop it.
+
+Change the scrolling speed with:
+
+    :let g:AutoScrollSpeed = 400
+
